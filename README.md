@@ -1,106 +1,109 @@
 # BukhobenkosiMbinda_Portfolio
-PORTFOLIO OF EVIDENCE FOR BUKHOBENKOSI MBINDA (221143017)
 
-🎓 Digital Portfolio 2025
+## Career Counselling
 
-Bukhobenkosi MbindaDiploma in ICT: Applications DevelopmentCape Peninsula University of Technology📍 Cape Town, Western Cape
+###  Evidence
+- [Career counselling.png]
+  
 
-🌐 Connect with Me
+### Reflection (STAR Technique)
+**Situation: As part of the Work Readiness modules, I completed a career coonsilling assessment.
+**Task: My goal was to gain clarity on my career path, understand the job market, and explore how my strengths align with available opportunities in the ICT industry.
+**Action: I completed the online module, took notes, and completed end of module quiz/assessment to test my understanding.
+**Result: The session helped me identify clear career goals and understand the practical steps needed to pursue a role in software development. I now feel more confident in choosing 
+          career pathways that suit my strengths and interests. 
 
-LinkedIn📞 0636239715
 
-🧾 About Me
+---
 
-As a final-year IT student majoring in Applications Development, I bring a strong foundation in Java, Spring Boot, SQL, and web development. My past work experience at Emasithandane Supermarket sharpened my attention to detail and problem-solving skills. I'm passionate about creating meaningful software solutions that streamline business processes and improve user experience.
+##  Skills and Interests
 
-🎓 Education
+###  Evidence
+- [Skills assessment.png]
+  
 
-Year
+###  Reflection (STAR Technique)
+**Situation: As part of the Work Readiness modules, I completed a Skills and Interests Assessment designed to help align my personal traits with suitable career options.
+**Task: The objective was to identify my core strengths and interests and learn how these can be matched to roles within the tech industry.
+**Action:I completed the assessment honestly, reviewed the results, and analyzed how my top skills like problem-solving and creativity relate to roles.
+**Result: The assessment gave me confidence to pursue roles that align with both my technical ability and personal interests, and to upskill in areas where I have room to grow.
 
-Institution
 
-Qualification
+##  Personality Assessment
 
-2016–2020
+###  Evidence
+- [Personality assessment.png]
 
-Sophumelela High School
+  
+###  Reflection (STAR Technique)
+**Situation: I was required to complete a Personality Assessment as part of the work readiness curriculum to better understand my work preferences and behavior in team environments.
+**Task: The aim was to learn more about how my personality traits influence my work style and interactions, particularly in tech team settings.
+**Action: I completed a standard personality test (such as MBTI or DISC), reviewed the detailed report, and reflected on the key strengths and challenges associated with my type.
+**Result: I learned that I am an analytical thinker who thrives in structured environments. This insight helped me better understand how I contribute to group projects and how I can 
+          adapt when working with different personality types.
 
-National Senior Certificate
 
-2021–2025
+##  Create a CV
 
-CPUT
+###  Evidence
+- [Create a CV.png]
 
-Diploma in ICT: Applications Development
+  
+###  Reflection (STAR Technique)
+**Situation: One of the key deliverables in the module was how to create a professional CV that reflects my academic background, technical skills, and project experience.
+**Task: I needed to design a CV that was well-structured, visually clear, and suitable for submission to potential employers in the ICT industry.
+**Action: I used a professional CV template, listed my previous work experience, and technical skills. I also sought feedback from a lecturer and made 
+          improvements based on their suggestions.
+**Result: The final version of my CV is professional, concise, and tailored to the job roles I’m targeting. I now have a document ready for job applications and internships, and I 
+          understand how to update it regularly as I gain more experience.
 
-💼 Personal Skills
 
-Programming Languages: Java, Python
+##  CV Submission
 
-Scripting Languages: JavaScript
+###  Evidence
+-  [Bukhobenkosi Mbinda - CV.pdf]
 
-Front-End: React
+**Situation: As part of the Work Readiness module, we were required to complete a unit focused on how to create a professional CV suitable for the ICT industry.
+**Task: The goal was to learn the principles of effective CV writing, including how to format, structure, and present information in a way that highlights relevant academic and practical experience to potential employers.
+**Action: I attended the CV writing workshop, where I learned about key components such as profile summaries, skills sections, and the importance of tailoring a CV for specific job roles. I reviewed examples, followed a step-by-step guide, and used a template provided in the module to begin drafting my own CV. I also learned about common mistakes to avoid and how to make my CV ATS-friendly.
+**Result: By the end of the module, I had created a well-structured, clear, and professional CV that effectively presents my background, skills, and projects. I gained practical knowledge of CV best practices and now feel confident in my ability to update and tailor my CV for different job opportunities.
 
-Back-End: Spring Boot, Spring Security
 
-Database: MySQL
 
-Tools & Platforms: Git, MS Office
+###  Reflection (STAR Technique)
+**Situation: After preparing my CV, I was required to submit it through Blackboard as part of the assessment process.
+**Task: The goal was to ensure that my CV was correctly submitted on time and to reflect on the process of formal application submission.
+**Action: I double-checked the formatting, converted the file to PDF, and uploaded it through Blackboard. I took a screenshot to keep as proof of submission. I also noted the submission confirmation message for reference.
+**Result: Submitting my CV reinforced the importance of attention to detail and meeting deadlines. I also gained experience in digital document submission, which mirrors the real-world process of applying for jobs or internships online.
 
-Other: HTML/CSS, Object-Oriented Programming, Web Development
 
-🧩 Projects & Collaborations
+ 
+Projects & Collaborations
 
-🎬 OPEN AIR CINEMA (2024)
+##  Gym Management System
+###  Evidence
+-  [GMS - Home Page.png]
+-  [GMS - Project 3 (2024) Team GitHub]
 
-A creative project merging outdoor film screenings with coding culture. Designed and developed a themed event management website.
 
-"It combines the magical experience of watching movies under the stars with a nod to the world of coding and software development."
 
-📁 Assessment-Based Portfolio Sections
+###  Reflection (STAR Technique)
+ **Situation: As part of a group project for our coursework, we were tasked with developing a Gym Management System aimed at helping gyms manage their operations more efficiently. The system needed to include member registration, class scheduling, attendance logging, and real-time notifications.
 
-Each section below includes evidence and a reflection using the STAR technique:
+**Task: I was responsible for designing and implementing the frontend of the system. My task was to ensure that the user interface was responsive, intuitive, and aligned with the functionality required by the backend logic. I collaborated with two other team members who focused on the backend and database integration.
 
-🔍 Career Counselling
+**Action: I used Vue.js to build interactive UI components such as forms for member registration, subscription views, class calendars, and dashboards. I regularly met with my teammates to align the frontend with the backend API, and participated in code reviews to ensure integration worked smoothly. I also conducted usability testing with mock users and applied feedback to improve the UI/UX.
 
-Evidence: Career Workshop Summary (PDF)
+**Result: The final product had a clean, responsive, and user-friendly interface that successfully interacted with the backend services. Users could easily register, track attendance, and view scheduled classes. Our project received positive feedback from our lecturer for its design consistency and functionality. I also gained hands-on experience with real-world frontend challenges like API integration, responsive layouts, and dynamic content rendering.
 
-Reflection (STAR):S: Attended a university-organized career counselling session.T: Clarify career direction in the IT field.A: Participated in assessments and workshops.R: Decided to focus on frontend engineering and human-centered design.
+##
 
-🛠️ Skills and Interests
 
-Evidence: Skills Matrix & Interest Test
 
-Reflection (STAR):S: Took skills inventory and career interest survey.T: Identify strengths aligned with real-world roles.A: Analyzed technical and soft skills.R: Confirmed my interest in user experience and system design.
 
-🧬 Personality Assessment
-
-Evidence: MBTI Test Results
-
-Reflection (STAR):S: Completed personality profiling using MBTI.T: Understand personal working style.A: Reviewed report and discussed outcomes.R: Found INFJ strengths align with client-facing dev roles.
-
-📄 Create a CV
-
-Evidence: Download My CV (PDF)
-
-Reflection (STAR):S: Needed a job-ready CV for internship applications.T: Craft a concise and effective CV.A: Used Markdown and feedback from peers.R: Finalized a modern, tailored CV for development roles.
-
-✅ CV Submission
-
-Evidence: Submission Screenshot or GitHub Commit
-
-Reflection (STAR):S: Required to submit final CV as part of the module.T: Ensure timely and accurate submission.A: Validated GitHub commit, confirmed Blackboard upload.R: Submission successful and documented.
-
-🔗 References
-
-All external content is referenced using the Harvard style.
-
-Example:Smith, A. (2023). Exploring Career Pathways in Software Development. [online] Available at: https://example.com [Accessed 19 May 2025].
-
-🤝 Let's Work Together
+Let's Work Together
 
 If you’re looking for a passionate junior developer with a solid base in Java, Spring Boot, and React — I’d love to connect.
 
-📍 Cape Town, South Africa
 
-© 2025 Bukhobenkosi Mbinda. All rights reserved.
+
