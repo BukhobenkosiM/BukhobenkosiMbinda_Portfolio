@@ -80,7 +80,26 @@
  
 Projects & Collaborations
 
+##  Open Air Cinema
+
+### Evidence
+- [Open Air Cinema 1.png]
+- [Open Air Cinema 2.png]
+- [Open Air Cinema 3.png]
+- [Open Air Cinema 4.png]
+- [Open Air Cinema 5.png]
+- [Open Air Cinema 6.png]
+  
+**Situation: During the development of the Open Air Cinema System, I was assigned to work on the Promos and Food Item pages. These features were essential to enhance the user experience by allowing customers to view and benefit from current promotions, and to order food as part of their cinema experience.
+
+**Task: My main responsibilities were to design and implement the Food Item page, as well as work collaboratively with other team members to integrate promotional features into the Payment page. It was critical that these pages were functional, user-friendly, and correctly integrated with both the frontend and backend components of the system.
+
+**Action: I built the Food Item page to allow dynamic display and management of food options, ensuring it pulled accurate data from the backend and presented it in an intuitive layout. I collaborated closely with Muneeb and Ferdi to implement and test promo code functionality on the Payment page. I thoroughly tested my components, fixed bugs that arose, and confirmed that my code integrated smoothly with the broader application, especially in how food and promo data were processed during payments.
+
+**Result: The features I developed were successfully implemented and functioned as expected in the final application. The Food Item page allowed users to easily browse and select menu options, while the promo feature on the Payment page helped improve user satisfaction and engagement. Through this experience, I enhanced my understanding of frontend-backend integration and strengthened my collaborative coding skills in a team environment.
+
 ##  Gym Management System
+
 ###  Evidence
 -  [GMS - Home Page.png]
 -  [GMS - Project 3 (2024) Team GitHub]
@@ -92,11 +111,9 @@ Projects & Collaborations
 
 **Task: I was responsible for designing and implementing the frontend of the system. My task was to ensure that the user interface was responsive, intuitive, and aligned with the functionality required by the backend logic. I collaborated with two other team members who focused on the backend and database integration.
 
-**Action: I used Vue.js to build interactive UI components such as forms for member registration, subscription views, class calendars, and dashboards. I regularly met with my teammates to align the frontend with the backend API, and participated in code reviews to ensure integration worked smoothly. I also conducted usability testing with mock users and applied feedback to improve the UI/UX.
+**Action: I used react typescript to build interactive UI components such as forms for member registration, subscription views, class calendars, and dashboards. I regularly met with my teammates to align the frontend with the backend API, and participated in code reviews to ensure integration worked smoothly. I also conducted usability testing with mock users and applied feedback to improve the UI/UX.
 
 **Result: The final product had a clean, responsive, and user-friendly interface that successfully interacted with the backend services. Users could easily register, track attendance, and view scheduled classes. Our project received positive feedback from our lecturer for its design consistency and functionality. I also gained hands-on experience with real-world frontend challenges like API integration, responsive layouts, and dynamic content rendering.
-
-##
 
 
 
