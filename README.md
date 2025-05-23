@@ -3,7 +3,7 @@
 ## Career Counselling
 
 ###  Evidence
-- [Career counselling.png]
+- [Career Counselling Evidence](./Career%20counselling.png)
   
 
 ### Reflection (STAR Technique)
@@ -19,7 +19,7 @@
 ##  Skills and Interests
 
 ###  Evidence
-- [Skills assessment.png]
+- [Skills and interests](./Skills%20and%20interest.png)
   
 
 ###  Reflection (STAR Technique)
@@ -32,7 +32,7 @@
 ##  Personality Assessment
 
 ###  Evidence
-- [Personality assessment.png]
+- [Personality assessment](./Personality%20assessment.png)
 
   
 ###  Reflection (STAR Technique)
@@ -83,12 +83,12 @@ Projects & Collaborations
 ##  Open Air Cinema
 
 ### Evidence
-- [Open Air Cinema 1.png]
-- [Open Air Cinema 2.png]
-- [Open Air Cinema 3.png]
-- [Open Air Cinema 4.png]
-- [Open Air Cinema 5.png]
-- [Open Air Cinema 6.png]
+- [Open Air Cinema 1](./Open%20Air%20Cinema%201.jpg)
+- [Open Air Cinema 2](./Open%20Air%20Cinema%202.jpg)
+- [Open Air Cinema 3](./Open%20Air%20Cinema%203.jpg)
+- [Open Air Cinema 4](./Open%20Air%20Cinema%204.jpg)
+- [Open Air Cinema 5](./Open%20Air%20Cinema%205.jpg)
+- [Open Air Cinema 6](./Open%20Air%20Cinema%206.jpg)
   
 **Situation: During the development of the Open Air Cinema System, I was assigned to work on the Promos and Food Item pages. These features were essential to enhance the user experience by allowing customers to view and benefit from current promotions, and to order food as part of their cinema experience.
 
@@ -101,8 +101,8 @@ Projects & Collaborations
 ##  Gym Management System
 
 ###  Evidence
--  [GMS - Home Page.png]
--  [GMS - Project 3 (2024) Team GitHub]
+-  [GMS - Home Page](./GMS%20-%20Home%20Page.jpeg)
+-  [GMS - Project 3 (2024) Team GitHub](./GMS%20-%20Project%203%20(2024)%20Team%20GitHub.jpeg)
 
 
 
