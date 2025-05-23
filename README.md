@@ -46,7 +46,7 @@
 ##  Create a CV
 
 ###  Evidence
-- [Create a CV.png]
+- [Create a CV Screenshot](./Create%20a%20cv.png)
 
   
 ###  Reflection (STAR Technique)
@@ -61,7 +61,7 @@
 ##  CV Submission
 
 ###  Evidence
--  [Bukhobenkosi Mbinda - CV.pdf]
+-  [Bukhobenkosi Mbinda - CV](./Bukhobenkosi%20Mbinda%20-%20CV.pdf)
 
 **Situation: As part of the Work Readiness module, we were required to complete a unit focused on how to create a professional CV suitable for the ICT industry.
 **Task: The goal was to learn the principles of effective CV writing, including how to format, structure, and present information in a way that highlights relevant academic and practical experience to potential employers.
